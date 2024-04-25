@@ -1,0 +1,40 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blue;
+    font-size: xx-large;
+    }
+body {
+    text-align: center;
+    font-size: smaller;
+    color: black;
+}
+h1 {
+    color:red;
+}
+a {
+    color:deeppink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/*pagina 2*/
+
+body {
+    text-align: center;
+    font-size: smaller;
+    color: black;
+}
+
+h1 {
+    color:forestgreen;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+p{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: darkturquoise;
+    font-size: 20px;    
+}
+
+body a {
+    text-align:right;
+}
+
